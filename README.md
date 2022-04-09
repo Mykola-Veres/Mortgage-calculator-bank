@@ -1,1 +1,16 @@
-# Mortgage-calculator-bank
+# React homework template
+
+Этот проект был создан при помощи
+[Create React App](https://github.com/facebook/create-react-app).
+
+## Запуск проекта
+
+1. Установи базовые зависимости проекта командой `npm install`.
+2. Запусти режим разработки, выполнив команду `npm start`.
+3. Перейди в браузере по адресу [http://localhost:3000](http://localhost:3000).
+
+## Деплой
+
+Продакшн версия проекта будет автоматически проходить линтинг, собираться и
+деплоиться на GitHub Pages, в ветку `gh-pages`, каждый раз когда обновляется
+ветка `main`.
